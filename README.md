@@ -1,5 +1,5 @@
 #T01_TheToysApp
 
-Solved T01.03, solution app included.
+Finished the lessons. App is complete. Learnt usage of another Java module, ScrollViews, and that stuff can be added to a TextView along with escape sequence characters using the + (concatenation) operator. I can make some decent stuff now.
 
-Lesson: T01.03
+Lessons covered: T01.01, T01.02, T01.03.
