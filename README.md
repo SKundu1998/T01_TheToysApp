@@ -1,5 +1,5 @@
 #T01_TheToysApp
 
-Solved T01.01, solution app committed.
+Solved T01.02, solution app committed.
 
 Lesson: T01.02
