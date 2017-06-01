@@ -1,5 +1,5 @@
 #T01_TheToysApp
 
-Initial commit containing all the exercises for T01.
+Solved T01.01, solution app committed.
 
-Lesson: 0
+Lesson: T01.01
